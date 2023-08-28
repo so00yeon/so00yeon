@@ -44,10 +44,12 @@ Here are some ideas to get you started:
 
    <br/>
    <br/>
- 
+
+ <!--
 #### :pencil2: Study log
  
   <br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so00yeon&color=dark)](https://velog.io/@so00yeon)
 </div>
+-->
