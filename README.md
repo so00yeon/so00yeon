@@ -7,7 +7,7 @@
 <h3 align="center">👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 <div align="center">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=so00yeon&include_all_commits=true&hide_title=true&show_icons=true&disable_animations=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=so00yeon&count_private=true&include_all_commits=true&hide_title=true&show_icons=true&disable_animations=true&theme=transparent)](https://github.com/so00yeon/github-readme-stats)
 
 </div>
 
