@@ -1,26 +1,17 @@
-<!--
-**so00yeon/so00yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hi!%20I'm%20Soyeon!&fontAlign=50&fontAlignY=70&fontSize=90)
 
-Here are some ideas to get you started:
+## Introduce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
+<div align="center">
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=so00yeon&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so00yeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=so00yeon&include_all_commits=true&hide_title=true&show_icons=true&disable_animations=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=egg&text=so00yeon)
-####  :wave: Welcome my github profile !
- <br/>
- <br/>
+</div>
+
+<br/><br/>
   
 ####  :clipboard: Once I've Used 
   
@@ -42,14 +33,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
-   <br/>
-   <br/>
-
- <!--
-#### :pencil2: Study log
- 
-  <br/>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so00yeon&color=dark)](https://velog.io/@so00yeon)
-</div>
--->
+<br/><br/>
