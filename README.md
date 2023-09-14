@@ -4,17 +4,16 @@
 
 ## Introduce
 
-<h3 align="center">👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
-<div align="center">
+<br/><br/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=so00yeon&count_private=true&include_all_commits=true&hide_title=true&show_icons=true&disable_animations=true&theme=transparent)](https://github.com/so00yeon/github-readme-stats)
+<h3>👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 
-</div>
+![so00yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=so00yeon&show_icons=true&disable_animations=true&include_all_commits=true&theme=nord)
 
 <br/><br/>
-  
-####  :clipboard: Once I've Used 
-  
+
+#### :clipboard: Once I've Used
+
  <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -34,3 +33,5 @@
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
 <br/><br/>
+
+</div>
