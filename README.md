@@ -8,7 +8,7 @@
 
 <h3>👩🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 
-![so00yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=so00yeon&show_icons=true&disable_animations=true&include_all_commits=true&theme=nord)
+![so00yeon's GitHub stats](https://github-readme-stats-so00yeon.vercel.app/api?username=so00yeon&show_icons=true&disable_animations=true&theme=nord)
 
 <br/><br/>
 
