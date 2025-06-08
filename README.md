@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hi!%20I'm%20Soyeon!&fontAlign=50&fontAlignY=70&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Happy%20to%20see%20you!&fontAlign=50&fontAlignY=60&fontSize=70)
 
 ## 👋 Introduce
 
@@ -20,13 +20,16 @@
 
 ### 👩🏻‍💻 My Github Stats
 
-![so00yeon's GitHub stats](https://github-readme-stats-so00yeon.vercel.app/api?username=so00yeon&show_icons=true&disable_animations=true&theme=nord)
+![so00yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=so00yeon&show_icons=true&disable_animations=true&theme=nord&count_private=true)
 
 ---
 
-### 🧰 Tech Stack (Once I've Used)
+### 🛠️ Tech Stack
 
-| Languages | Frameworks | Databases | Tools & IDEs |
-|----------|------------|-----------|--------------|
-| ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![NestJS](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) |  |  | ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon%20aws&logoColor=white) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so00yeon&layout=compact)
+
+- 💻 **Languages:** Java, JavaScript, TypeScript, Python
+- ⚙️ **Backend:** Spring, NestJS, FastAPI
+- 🎨 **Frontend(Studing..):** HTML5, CSS3, React
+- 🗄️ **Database:** Oracle, MySQL, Redis, PostgreSQL
+- 🔧 **Tools & Infra:** AWS, GitHub, Supabase, Docker
