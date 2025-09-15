@@ -21,11 +21,6 @@
 ### 👩🏻‍💻 My Github Stats
 
 ![so00yeon's GitHub stats](https://github-readme-stats-sand-zeta-95.vercel.app/api?username=so00yeon&show_icons=true&animations=true&theme=nord)
-
----
-
-### 🛠️ Tech Stack
-
 ![Top Langs](https://github-readme-stats-sand-zeta-95.vercel.app/api/top-langs/?username=so00yeon&layout=compact&theme=nord)
 
 - 💻 **Languages:** Java, JavaScript, TypeScript, Python
